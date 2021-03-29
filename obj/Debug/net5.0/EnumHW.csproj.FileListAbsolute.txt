@@ -1,0 +1,16 @@
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\bin\Debug\net5.0\EnumHW.exe
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\bin\Debug\net5.0\EnumHW.deps.json
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\bin\Debug\net5.0\EnumHW.runtimeconfig.json
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\bin\Debug\net5.0\EnumHW.runtimeconfig.dev.json
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\bin\Debug\net5.0\EnumHW.dll
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\bin\Debug\net5.0\ref\EnumHW.dll
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\bin\Debug\net5.0\EnumHW.pdb
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.AssemblyInfoInputs.cache
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.AssemblyInfo.cs
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.dll
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\ref\EnumHW.dll
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.pdb
+C:\Users\tlvla\source\repos\EnumHW\EnumHW\obj\Debug\net5.0\EnumHW.genruntimeconfig.cache
